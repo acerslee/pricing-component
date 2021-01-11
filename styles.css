@@ -114,14 +114,16 @@ input:checked + .slider:before {
 }
 
 #learn-button{
-  background-color:white;
-  color:#ddbfff;
-  border-radius: 5%;
+  background-color:#ddbfff;
+  color:white;
+  border-radius: 10%;
+  width:8rem;
   padding:0.5rem;
 }
 
 #learn-button:hover{
   background-color:#8a8a8a;
+  border-radius: 10%;
   color:black;
   cursor:pointer;
 }
